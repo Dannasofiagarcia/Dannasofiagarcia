@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danna García</h1>
-<h3 align="center">Student of Systems and Telematics engineering</h3>
+<h3 align="center">Student of Systems and Telematics Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dannasofiagarcia&label=Profile%20views&color=0e75b6&style=flat" alt="dannasofiagarcia" /> </p>
 
